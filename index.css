@@ -114,3 +114,7 @@
       transform: none;
     }
   }
+
+  .new-class{
+    background-color: red;
+  }
